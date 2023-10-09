@@ -1,34 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9095de48-e3eb-4225-ae68-550af91ffab0" name="Changes" comment="" />
+    <list default="true" id="9095de48-e3eb-4225-ae68-550af91ffab0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/AccountStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/FlightStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ReservationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/SeatClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/SeatType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flight/Aircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flight/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flight/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flight/FlightInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flightReservation/FlightReservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flightReservation/FlightSeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flightReservation/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notification/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notification/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notification/PostalNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notification/SmsNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/payment/CashTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/payment/CheckTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/payment/CreditCardTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/payment/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/Crew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/FrontDeskOfficer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/Pilot.java" afterDir="false" />
+    </list>
+    <list id="bf230be3-931a-410f-8429-1564a8c297b1" name="Changes by rubenurrego" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2WOjFBy6sUxGsH2URi9vYCvmjut" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "/home/danielpineda/IdeaProjects/TecnologiasAvanzadas/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/danielpineda/IdeaProjects/TecnologiasAvanzadas&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/danielpineda/IdeaProjects/TecnologiasAvanzadas/user/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="notification" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,17 +99,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696610416104</updated>
-      <workItem from="1696610417465" duration="3000" />
+      <workItem from="1696610417465" duration="9410000" />
+      <workItem from="1696624970208" duration="409000" />
+      <workItem from="1696625383912" duration="39000" />
+      <workItem from="1696625468424" duration="75000" />
+      <workItem from="1696625548818" duration="179000" />
+      <workItem from="1696625765068" duration="70000" />
+      <workItem from="1696708166287" duration="11000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/user/src/Main.java</url>
           <line>13</line>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

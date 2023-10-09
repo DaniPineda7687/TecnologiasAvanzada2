@@ -1,2 +1,8 @@
-package enumeration;public enum SeatType {
+package enumeration;
+
+public enum SeatType {
+    Regular,
+    Accessible,
+    EmergencyExit,
+    ExtraLegRoom
 }

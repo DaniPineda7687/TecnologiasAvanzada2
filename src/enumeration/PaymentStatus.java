@@ -1,2 +1,14 @@
-package enumeration;public enum PaymentStatus {
+package enumeration;
+
+public enum PaymentStatus {
+    Unpaid,
+    Pending,
+    Completed,
+    Failed,
+    Declined,
+    Canceled,
+    Abandoned,
+    Settling,
+    Settled,
+    Refunded
 }
